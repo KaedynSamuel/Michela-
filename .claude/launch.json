@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "forgive-me-preview",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["--yes", "serve", "-l", "5566", "C:\\Users\\kaedy\\OneDrive\\Documents\\Kaedyn\\Michaela"],
+      "port": 5566
+    }
+  ]
+}
